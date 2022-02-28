@@ -18,7 +18,8 @@ less is more when u compare what u pay to what you take
   u need it for a long time, pay much to take much
 
 more is less when
-  1. u spend less time to learn it first time, and later, u need more time to learn more about it, correct more on existed error model of it in ur brain, which is a hell
+  1. u spend less time to learn it first time, and later, u need more time to learn more about it,
+        correct more on existed error model of it in ur brain, which is a hell
   2. u spend more time to learn it first time, and need merely time to learn more
 
   Which one will u choose? it depends of ur need
@@ -39,7 +40,8 @@ i only list what iknow, take good staff if it suits u, and leave the trash left
 
 in common case, we use hx( abbr. of helix) to open a name file or just this app
 
-it auto find file from disk, load in RAM memory, well this is a simple model of its work, it did more and more work under the surface with these genius developers
+it auto find file from disk, load in RAM memory, well this is a simple model of its work, 
+it did more and more work under the surface with these genius developers
 
 so as a user, we won't care too much details, they helped us these parts, thanks them ❤❤❤
 
