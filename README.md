@@ -55,7 +55,8 @@ things are different and complex than one single concept, cuz we need them!
 
 when we play games, qwer or wasd may not work for them literal value "qwer" or "wasd", that's it.
 
-this pattern, or mechnism, or mode, is for "first thing first", in game, type info is secondary staff, while heros or cars skill is first-class staff.
+this pattern, or mechnism, or mode, is for "first thing first", in game, type info is secondary staff, 
+    while heros or cars skill is first-class staff.
 
 while editing, particular in programming, "qwer", the literal function of physical keys on keyboard is not the first-class thing
 
@@ -63,9 +64,10 @@ it is important, but not that much important, we have more important thing to de
 
 we pay same, but want more, we stroke one key, hit and released, so much info wasted on a "q"? nope!
 
-so in default, every key has its first-class function, when we hit it, release it, combinate with other key, and sequence of these keys, should work on first-class usage
+so in default, every key has its first-class function, when we hit it, release it, combinate with other key, 
+    and sequence of these keys, should work on first-class usage
 
-here, helix use hjkl to move around, while it is described in official doc that they work like arrows, well, let me talk details of their usage.
+helix use hjkl to move around, while it is described in official doc that they work like arrows, well, let me talk details of  usage.
 
 i'm going to talk facts and logical model which help my brain to think and use it, not what other's definition or official definition.
 
@@ -82,7 +84,8 @@ there only exist pay and take, we wanna pay less and take more, not full every a
 
 but do we really need the details? well, it depends
 
-i don't wanna memory non-organized info like hl will cross line, instead, 1D and 2D and pay-take model is consistent and reasonable for my brain
+i don't wanna memory non-organized info like hl will cross line
+  instead, 1D and 2D and pay-take model is consistent and reasonable for my brain
 
 we know that 1 dimension has 2 direction, 2 ends, so h will stop work if at start end of file, l for end end...well
 
@@ -111,7 +114,8 @@ that's the our part to enable the function, and other work to make it happen are
 
 oh, may there are another better way, but since the concept is made in our brain, it's hard to change the tool
 
-that's why qwerty layout is default, only reason is that we learned computer by it, and hard to change to colemak, or a nother physical key positions..
+that's why qwerty layout is default, only reason is that we learned computer by it, and hard to change to colemak,
+    or a nother physical key positions..
 
 goon, after deleting the design of horizontal dimension of screen, what if we wanna a 2d screen left ends???
 
